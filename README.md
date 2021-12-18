@@ -32,7 +32,7 @@ The structure of the created terminology:
 
 
 ### Meta annotations 
-Concepts will be combined with "Meta-annotations". i.e. an annotation of an annotation. 
+Each annotation will be combined with "Meta-annotations". i.e. an annotation of an annotation. 
 This will hold the contextual information of the concept.
 
 |Meta-annotation|Values|Description|
